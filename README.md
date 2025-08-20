@@ -34,8 +34,8 @@ Meu nome é Erick Eduardo Souza Araújo, tenho 17 anos e atualmente estou cursan
 />
 <img 
     align="left" 
-    alt="Tailwind CSS" 
-    title="Tailwind"
+    alt="Tailwind" 
+    title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
